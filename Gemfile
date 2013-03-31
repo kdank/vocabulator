@@ -5,6 +5,8 @@ gem 'rails', '4.0.0.beta1'
 gem 'bootstrap-sass', '2.3.0.1'
 gem 'bcrypt-ruby', '3.0.1'
 
+gem 'haml-rails'
+
 gem 'pg', '0.14.1'
 
 group :development, :test do
