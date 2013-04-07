@@ -1,0 +1,486 @@
+name,definition
+aberration,Deviation from what is correct or right.
+abeyance,Suspension of an activity; postponement.
+abstemious,Sparing in use of food or drink; moderate.
+abstruse,Concealed; difficult to comprehend; obscure.
+accolade,Embrace; award; commendation.
+acerbic,Bitter; harsh; caustic.
+acrimonious,Sarcastic; caustic; angry; mordant.
+acuity,Sharpness; acuteness; keenness.
+acute,1. Perceptive. 2. Excruciating.
+adept,Proficient; masterful; expert.
+adherent,Believer; supporter; devotee.
+adjunct,1. Attachment; appendage. 2. Subordinate or auxiliary capacity.
+admonish,Caution; reprove mildly; reprimand.
+adroit,Dexterous; proficient; skillful.
+adulation,Excessive flattery; adoration; idolization.
+adulterate,Make impure or inferior by adding improper ingredients; contaminate; pollute.
+advocate,1. Argue for a cause; defend. 2. Support; uphold.
+aesthete,Person who cultivates beauty or art; connoisseur.
+aggrandize,Make more powerful; amplify; increase.
+alacrity,Eagerness; zeal; speed.
+altruistic,Concerned about the general welfare of others; charitable; generous.
+ambivalence,Uncertainty; doubt; indecisiveness.
+ambulatory,Able to walk; not stationary.
+ameliorate,Make better; improve.
+amiable,Cordial; of pleasant disposition; friendly.
+amorphous,Without structure; shapeless; nebulous.
+animate,Energize; enliven.
+anomaly,Abnormality; deviation from the general rule; irregularity.
+antediluvian,Ancient; antiquated; obsolete.
+antipathy,Feeling of opposition or repugnance; aversion; dislike.
+apathy,Lack of concern; emotion or interest; indifference.
+aperture,Gap; opening; orifice.
+apocryphal,False; unauthenticated; disputed.
+apotheosis,1. Essence; epitome. 2. Canonization.
+appease,Satisfy; make peace; placate.
+approbatory,Expressing approval.
+arable,Suitable for cultivation or plowing.
+arrogant,Feeling superior to other people; egotistical.
+ascetic,Strict; austere.
+assuage,Ease; make less burdensome; mitigate.
+atrophy,Waste away from lack of use; degenerate.
+audacity,Boldness or adventurousness; gall.
+authoritarian,1. Person who acts like a dictator; tyrant. 2. Disciplinarian.
+avarice,Extreme desire for wealth; greed; acquisitiveness.
+aviary,Large enclosure confining birds.
+avouch,Guarantee; take responsibility for; affirm.
+avow,Affirm; assert; declare; acknowledge.
+baleful,Sorrowful; sinister; evil.
+balm,Soothing ointment for pain or healing; salve.
+banal,Trite; insipid; ordinary.
+bane,Deadly affliction; curse; plague.
+barbarity,Cruel action; inhuman act; harsh conduct.
+barren,1. Infertile; impotent. 2. Arid; unproductive.
+befuddle,Stupefy or confuse; misconstrue.
+belated,Tardy; overdue.
+beleaguer,Besiege; surround.
+belittle,Humiliate; tease; diminish in importance.
+bemoan,1. Experience pain or distress. 2. Express pity for; mourn.
+bemused,Preoccupied by thought; bewildered; perplexed.
+bilk,Defraud; deceive; hoodwink.
+blandishment,Cajolery; enticement.
+bliss,Gaiety; happiness; enjoyment.
+blithe,Happy; pleased; delighted.
+boisterous,Noisy; loud; violent; rowdy.
+boorish,Ill-mannered; rude; gauche.
+brevity,Briefness; succinctness; terseness.
+broach,Introduce; bring up; mention.
+browbeat,Intimidate; harass; dominate.
+bungle,Botch; mismanage; spoil.
+buttress,Truss; foundation; support.
+cacophonous,Discordant; dissident; harsh.
+callow,Inexperienced; immature; naive.
+candid,Frank; blunt; open.
+carouse,Drink to excess; live it up.
+cease,Stop; end; halt.
+celerity,Swift motion; speed; alacrity.
+censorious,Critical; attacking; denouncing.
+charlatan,Fraud; person claiming knowledge he/she does not have; humbug; fake; hustler.
+chary,Careful; cautious.
+chasten,Castigate; punish; reprove.
+cherubic,Sweet; kind; innocent.
+chimerical,Fanciful; whimsical; playful.
+chronic,Compulsive; typical; habitual; inveterate.
+churlish,Selfish; rancorous; surly.
+circuitous,Indirect; roundabout; rambling.
+clamor,Loud noise or complaint; commotion; din.
+clandestine,Furtive; surreptitious; secret.
+clemency,Lenience; mercy; compassion.
+cloister,Convent; monastery; religious place.
+coagulate,Congeal; curdle; clot.
+coalesce,Combine; incorporate; merge.
+coddle,Pamper; overindulge; baby; spoil.
+coercion,Intimidation; duress; force; compulsion.
+cognate,Related by blood; having the same origin.
+commensurate,Equal in measure; of the same duration or size.
+compile,Collect data; accumulate; amass.
+concomitant,Concurrent; attendant; occurring with something else.
+concordance,Agreement; treaty; accord.
+confluence,Nexus; union; meeting; conflux.
+confound,Perplex; baffle; confuse.
+conglomerate,Corporation; partnership; firm.
+conjugal,Matrimonial; nuptial; marital.
+constrict,Squeeze; pinch; obstruct; block.
+contentious,Argumentative; pugnacious; quarrelsome.
+contrite,Penitent; apologetic; remorseful.
+conundrum,Mystery; puzzle.
+convoke,Convene; assemble.
+copious,Plentiful; ample; profuse.
+corpulence,Stoutness; obesity.
+coterie,Small group of people who share interests and meet frequently.
+crass,Vulgar; grossly ignorant; indelicate.
+credulous,Gullible; unsuspecting; naive.
+cryptic,Enigmatic; obscure; secret; puzzling.
+ctenoid,Comblike; having narrow segments.
+cuboid,Having the shape of a cube.
+cucullate,Hood-shaped.
+daub,Blur; smear; spread.
+dawdle,Procrastinate; loiter; idle; dally.
+dearth,Paucity; shortage; deficiency.
+debased,Lowered in status or character; degenerate.
+decipher,Solve or figure out a puzzle; translate; untangle.
+declivity,Downward slope.
+decorum,Appropriate conduct; polite or proper behavior; protocol.
+delectable,Delicious; delightful; savory.
+deleterious,Destructive; poisonous; unhealthy.
+delineate,Describe; outline; depict.
+delusion,Untrue belief; hallucination; fallacy; misconception.
+demagogue,Incendiary; agitator; opportunist.
+denounce,Reprove; accuse; condemn.
+depravity,Perverted disposition; wickedness; vileness; corruption.
+deprecatory,Disapproving; belittling;
+desecrate,Contaminate; profane; defile.
+desist,Discontinue or stop; cease; renounce.
+desolate,Alone; without hope or comfort; forsaken.
+despoil,Ravage; rob; loot.
+despot,Dictator; tyrant; totalitarian.
+diatribe,Extreme/bitter and abusive speech; vituperation; tirade.
+didactic,Pedantic; academic; for teaching.
+diffidence,Self-doubt; timidity; shyness.
+dilatory,Lackadaisical; lazy; remiss.
+diligent,Assiduous; studious; hard-working.
+diminution,Decrease; reduction.
+disaffected,Disillusioned; dissatisfied; discontented.
+disapprobation,Dislike; reservation; denunciation.
+disband,Disperse; dissipate; scatter; dispel.
+discontent,Unhappy; displeased; miserable.
+discursive,Circuitous; digressive; rambling.
+dishearten,Dismay; daunt; depress.
+disinterment,Exhumation; removal of a body from a grave.
+disoblige,Slight or offend.
+disparage,Deprecate; belittle or abuse.
+dispassionate,Imperturbable; unemotional; calm; composed.
+disputatious,Quarrelsome; contentious; argumentative.
+dissemble,Disguise; conceal; mask; camouflage.
+dissension,Conflict; disagreement; strife.
+dissonant,Cacophonous; inharmonious; discordant; strident.
+dissuade,Obstruct; hinder; deter.
+distend,Bloat or bulge; swell; stretch.
+dither,Commotion; turmoil.
+divination,Prediction; prophecy; forecast.
+dolt,Cretin; fool; dimwit; idiot.
+dotard,Senile person.
+dubious,Irresolute; uncertain; moot.
+duplicity,Cunning; fraud; trickery; deception.
+edify,Instruct; enlighten; educate.
+efface,Cancel; delete; obliterate.
+effervescent,Lively; volatile.
+effigy,Mannequin; likeness; image.
+effrontery,Impudence; nerve; gall.
+egregious,Flagrant; glaring; outrageous.
+elegiac,Mournful; sorrowful; sad.
+elucidate,Interpret; define; clarify; explain.
+emanate,Radiate; flow from; emit.
+emasculate,Deprive of strength.
+embroil,Implicate; enmesh; involve.
+emcee,Master of ceremonies.
+empathize,Identify with; understand.
+emulate,Model; pattern.
+enervate,Exhaust or weaken; debilitate.
+engender,Generate; produce; cause.
+enigmatic,Cryptic; baffling; mysterious.
+enmesh,Tangle or involve.
+ennui,Dullness; boredom; monotony.
+enthrall,Mesmerize; captivate; thrill.
+entrench,Fortify; reinforce; secure.
+ephemeral,Transitory; fleeting; passing; temporary.
+epicure,Person devoted to luxurious living; person with refined tastes.
+epithet,Word used to describe or characterize a person or thing.
+equilibrium,Balance; stability; poise.
+equivocate,Prevaricate; dodge; evade; hedge.
+erudition,Learning; knowledge; enlightenment.
+escapade,Adventurous conduct; unusual behavior.
+esoteric,Confidential; personal; private; privileged.
+espouse,Embrace; defend; support.
+ethereal,Incorporeal; intangible; airy.
+eulogy,Commendation; speech giving great tribute.
+euphonic,Agreeable to the ear.
+evanescent,Ephemeral; fading; brief.
+exigent,Pressing; insistent; urgent.
+exonerate,Acquit; vindicate; free from responsibility.
+exorcise,Cast out evil spirits; expel demons.
+expatriate,Send into exile; renounce one's own country.
+expedite,Speed up matters; accelerate; quicken.
+expunge,Obliterate; remove; erase; exterminate.
+expurgate,Remove erroneous or objectionable material; delete; edit.
+extemporaneous,Spontaneous; impromptu.
+extol,Praise; laud; hail; glorify.
+extradite,Transfer a person to another jurisdiction for possible prosecution for an alleged offense.
+extricate,Remove; loosen; untie.
+fallible,Faulty; imperfect.
+fallow,Idle; dormant.
+fastidious,Meticulous; exacting.
+fathom,Measure; discover; perceive.
+fatuous,Ludicrous; inane; idiotic; silly.
+fecund,Prolific; productive; fruitful.
+felicity,Great happiness; bliss.
+fetid,Possessing an offensive smell; malodorous; foul; gamey.
+fetter,Restrain; restrict; curb.
+fickle,Capricious; erratic; spasmodic.
+fledgling,Young or inexperienced person; young bird.
+flippant,Nonchalant; frivolous; superficial; light.
+florid,Ornate; flushed with rosy color; ruddy.
+flout,Ridicule; scoff; mock; scorn.
+foible,Frailty; imperfection; weakness.
+forswear,Repudiate; forsake; eschew.
+fulsome,Loathsome; excessive.
+fume,Gas; vapor; harmful or irritating smoke.
+furtive,Clandestine; secretive; surreptitious; covert.
+gambol,Play; frolic; romp.
+garble,Confuse; scramble; distort.
+garish,Gaudy; ostentatious; excessive.
+garner,Collect; receive; attain; acquire.
+giddy,Scatterbrained; silly; frivolous.
+goad,Incite; pressure; irk; arouse; awaken.
+grandiloquence,Pompous or bombastic speech; lofty or welling language.
+grisly,Frightening; ghastly; gory; hideous.
+grovel,Act in a servile way; cringe; kneel.
+guile,Wiliness; deceit; cunning.
+guzzle,Gulp; swill; consume to excess.
+hackneyed,Trite; common; overdone; banal.
+haggle,Dicker; barter; make a deal.
+hallow,Make holy; consecrate; sanctify.
+hamper,Hinder; frustrate; impede.
+harbor,Preserve; conceal; secure; shelter.
+hardy,Stalwart; robust; sturdy.
+haughty,Arrogant; disdainful; blatantly proud; contemptuous.
+hearten,Encourage; give strength.
+hedge,Enclose; surround; fence.
+hedonism,Intemperance; self-indulgence; excess.
+herald,Announce; broadcast; report.
+heretic,Nihilist; infidel; radical; dissenter.
+hiatus,Interruption; pause; gap.
+hilarity,Boisterous merriment; enjoyment.
+histrionic,Pertaining to actors; melodramatic.
+hoary,Frosted; grey; grizzled.
+hyperbole,Exaggeration; fanciful statement; enhancement.
+iconoclasm,Attack on religious values or symbols.
+ignoramus,Moron; fool; dimwit.
+immutable,Incorruptible; enduring; unchanging.
+impecunious,Poor; destitute; penniless.
+imperturbable,Even-tempered; level-headed; calm.
+impervious,Airtight; sealed; impenetrable.
+impetuous,Hasty; rash; impulsive.
+impregnable,Invincible; invulnerable; unable to be captured or entered.
+impromptu,Makeshift; spontaneous.
+improvident,Reckless; rash.
+impugn,Denounce; censor; attack.
+inauspicious,Unfavorable.
+inaudible,Faint; soft; hard to hear.
+incipient,Embryonic; developing; in the beginning stages.
+incisive,Perceptive; astute.
+inclusive,All-encompassing; broad in scope; comprehensive.
+incoherent,Illogical; inconsistent.
+incongruous,Inconsistent; unsuitable; contradictory.
+incorrigible,Unruly; delinquent; incapable of reform.
+indecorous,Inappropriate; indelicate; unseemly.
+indefatigable,Diligent; persistent; inexhaustible.
+indenture,Contract binding a person to work for another.
+indolence,Lethargy; idleness; sloth.
+inebriation,Drunkenness; intoxication.
+ingenuous,Genuine; open; candid; frank.
+inimical,Antagonistic; hurtful; harmful; adverse.
+innocuous,Dull; harmless; innocent.
+inscrutable,Mysterious; perplexing.
+insipid,Dull; banal; tasteless.
+insolvent,Bankrupt; unable to pay debts.
+intercede,Intervene; negotiate.
+intonate,Speak or utter with a particular tone.
+intractable,Unruly; disobedient.
+intrinsic,Inherent; natural; innate.
+inveigh,Abuse; criticize; rebuke.
+inveterate,Habitual; chronic.
+irascible,Testy; touchy; irritable.
+issue,Discharge; emerge; emanate.
+jettison,Eliminate; discharge.
+jollity,Gaiety; merriment.
+judicious,Logical; reasonable; clever.
+juncture,Joint; seam; intersection; joining.
+juxtapose,Place side by side.
+kinetic,Caused by motion; dynamic.
+kitsch,Art or writing of a pretentious but shallow nature.
+kiosk,A small structure used as a newsstand or bandstand etc.
+knave,A dishonest and/or deceitful person; a rogue.
+knotty,Snarled; tangled.
+knoll,Hillock; mound.
+kudos,Credit or praise for an achievement; glory.
+labyrinth,Maze; network; puzzle.
+lachrymose,Weepy; tearful.
+laconic,Concise; terse; curt.
+lamentation,Complaint; moan.
+lampoon,Mock; ridicule.
+languish,Decline; diminish; weaken.
+largess,Charity; philanthropy; gift.
+lassitude,Fatigue; weariness; debility.
+laudable,Commendable; admirable; exemplary.
+laxity,Carelessness; indifference.
+lethargy,Idleness; listlessness; passivity.
+levity,Lightness; frivolity.
+linger,Loiter; remain; hesitate.
+lithe,Flexible; agile; mobile; bendable.
+loutish,Clumsy; idiotic; buffoonlike.
+ludicrous,Outlandish; silly; ridiculous.
+lurid,Shockingly vivid; horrifying; sensational.
+maladroit,Clumsy; unskilled.
+malapropism,Inappropriate or ludicrous use of a word.
+malevolent,Venomous; spiteful; malignant.
+malinger,Feign illness to escape work; shirk.
+marred,Having blemishes; damaged; defaced.
+maudlin,Overemotional; mushy.
+meander,Twist; bend; zigzag.
+mendicant,Almsman; beggar; leech; parasite.
+meticulous,Precise; scrupulous; particular.
+mettle,Stamina; bravery; courage.
+mince,Chop; mitigate.
+mire,Mud; slime; muck.
+moribund,Failing; waning; ailing.
+motley,Multicolored; spotted; mixed.
+multifarious,Diverse; many-sided; multiple.
+mundane,Boring; ordinary; typical; tedious.
+munificent,Generous; extravagant; philanthropic.
+nadir,Lowest point.
+naive,Foolishly simple; childlike.
+nascent,Beginning; embryonic; incipient.
+nebulous,Unclear; vague; indefinite.
+needle,Provoke.
+nefarious,Evil; vile; sinister; wicked.
+nemesis,Just punishment; retribution.
+neologism,Newly coined phrase or expression.
+noisome,Noxious to health.
+noxious,Harmful; malignant.
+obdurate,Stubborn; intractable.
+obsequious,Servile; groveling.
+obviate,Make unnecessary.
+odious,Detestable; loathsome; revolting; sickening.
+officious,Meddlesome.
+opaque,Impenetrable by light; dull; dark; obscure.
+optimum,Peak or prime; ideal.
+opulent,Affluent; well-to-do; plentiful.
+ostentatious,Conspicuous; showy.
+ostracize,Exclude; isolate; bar; shun.
+palpable,Noticeable; obvious; apparent.
+paltry,Minor; petty; insignificant.
+panegyric,Elaborate praise and/or public compliment.
+paragon,Model or standard of excellence.
+pariah,Outcast; misfit; refugee.
+parochial,Religious; restricted.
+parsimony,Miserliness; unusually excessive frugality.
+partisan,Fan or supporter; enthusiast supporting a particular cause or issue.
+pastiche,Hodgepodge; literary or musical piece imitating other works.
+paucity,Scarcity; shortage; dearth.
+peccadillo,Small sin or fault.
+pedantic,Stuffy or dogmatic; meticulous; academic.
+peevish,Irritable; grouchy; ill-tempered.
+pejorative,Degrading; derogatory; negative.
+percipient,Able to perceive or see things as they actually are.
+perfidy,Deliberate breach of faith or trust; treachery.
+peripheral,Marginal; outer; surrounding.
+perspicacious,Astute; keen; perceptive.
+philistine,Barbarian; person lacking artistic judgment.
+pique,Irritate; miff; offend.
+pithy,1. Substantial; profound. 2. Brief; concise.
+placid,Sincere; tranquil; composed; sedate.
+plaintive,Sad; mournful; pathetic.
+platitude,1. Triteness. 2. Cliche; trivial remark.
+plaudit,Enthusiastic expression.
+pliable,Limber; malleable; flexible.
+poignant,Intense; powerful; biting; piercing.
+polemical,Controversial; argumentative; debatable.
+polyphony,Music with two or more melodies blended together.
+porous,Permeable; absorbent; having holes.
+posthumous,Arising or continuing after someone's death.
+potable,Drinkable.
+prattle,Gab; babble.
+precocious,Showing premature development.
+precursor,Forerunner.
+prescient,Showing foresight; predicting events before they occur.
+primeval,Belonging to a primitive age.
+primordial,Belonging to a primitive age; first in time.
+proclivity,Tendency; inclination; propensity.
+procrastinate,Postpone; stall; defer.
+prodigious,Exceptional; impressive; of huge quantity; immense.
+proficient,Skillful; masterful; expert.
+progeny,Heir; descendant; offspring.
+prolific,Fruitful; abundant; fertile.
+rescind,Cancel; repeal; veto.
+resilient,Elastic; stretchy; rebounding.
+resonant,Reverberant; ringing.
+resplendent,Dazzling; glorious; intense.
+restive,Nervous; restless; uneasy.
+retrospection,Contemplation of past things.
+reverent,Devout; solemn; worshipful.
+ribald,Lewd; obscene; irreverent.
+rudiment,Beginning; foundation or source.
+ruffian,Brutal person; cruel and sadistic person.
+ruminate,Contemplate; think about.
+saccharine,Sugary; syrupy.
+savant,Intellectual; scholar; philosopher.
+scanty,Meager; scarce.
+scoff,Mock; ridicule.
+sequester,Separate; isolate; segregate.
+soporific,Hypnotic; lethargic; causing sleep.
+spurious,Bogus; false.
+spurn,Defy; reject.
+squalor,1. Severe poverty. 2. Filthiness.
+stratagem,Plot; tactic; deception.
+strident,Discordant; harsh; piercing.
+strife,Conflict; turmoil; struggle.
+stultify,Inhibit; make ineffective; cripple.
+supercilious,Egotistic; proud; arrogant.
+surfeit,Overabundance; excess; surplus.
+surly,Choleric; rude; sullen.
+surreptitious,Covert; furtive; acquired by stealthy means.
+svelte,Graceful; slim.
+sybarite,Someone devoted to luxury; pleasure-seeker.
+sycophant,Flatterer.
+taciturn,Reserved; shy; uncommunicative.
+tantamount,Indistinguishable; equivalent.
+taper,Diminish; thin; narrow.
+tawdry,Gaudy; showy; loud.
+temerity,Rashness; audacity; recklessness.
+tensile,Pertaining to tension; stretchable; ductile.
+tenuous,Attenuated; flimsy; thin.
+tirade,Diatribe; angry speech.
+torpor,Lethargy; apathy; dormancy.
+trepidation,Anxiety; alarm; apprehension.
+truant,Indolent; absent; idle.
+turgid,Swollen; bombastic; distended.
+turpitude,Depravity; baseness; shamefulness.
+undulate,Move in a wavy manner.
+unfathomable,Baffling; puzzling; incomprehensible.
+unkempt,Uncombed; messy; untidy.
+unscathed,Unhurt; uninjured.
+unwieldy,Clumsy; awkward; unmanageable.
+upbraid,Rebuke; scold; criticize.
+upshot,Final result; conclusion; end.
+vacillate,Hedge; waver; fluctuate.
+variegated,Multicolored; polychromic; varied.
+vehement,Fierce; emphatic; intense.
+venerate,Admire; show respect.
+veracity,Truth; sincerity; honesty; candor.
+verbose,Wordy; talkative; profuse.
+verdant,Lush; thick with vegetation; leafy.
+viable,Living; alive; feasible.
+vigilance,Attentiveness; prudence; care.
+vilify,Defame; denigrate.
+virulent,Fatal; lethal; toxic.
+vitriolic,Scathing; caustic.
+vociferous,Clamorous; outspoken; noisy; vocal.
+voluble,Verbose; wordy; garrulous.
+voluminous,Huge; immense; bulky.
+voracious,1. Enthusiastic; overly eager. 2. Starving.
+vouchsafe,Confer; grant; permit.
+wan,Anemic; colorless; pale.
+waver,Totter; fluctuate.
+whet,Stimulate; sharpen; intensify.
+wistful,Yearning; pensive; sad.
+woe,Anguish; grief; affliction.
+writhe,Squirm; twist.
+xenophobe,One who dislikes strangers or foreigners.
+yeoman,Peasant; ordinary person.
+yore,Time long past.
+yowl,Long and/or mournful cry or howl.
+zealot,Fanatic; radical; enthusiast.
+zenith,Apex; summit; peak.
+curmudgeon,Cantankerous person.
