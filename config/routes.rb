@@ -1,5 +1,6 @@
 Vocabulator::Application.routes.draw do
   resources :users
+  resources :attempts,      only: [:new, :create, :destroy]
   resources :sessions,      only: [:new, :create, :destroy]
   root to: 'static_pages#home'
   match '/about',   to: 'static_pages#about',   via: 'get'

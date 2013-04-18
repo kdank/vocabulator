@@ -12,6 +12,7 @@ gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 gem 'gemcutter'
 gem 'rwordnet'
+gem 'formtastic'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.0'

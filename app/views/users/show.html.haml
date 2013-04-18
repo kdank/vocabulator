@@ -1,3 +1,6 @@
 = provide(:title, @user.name)
 %p= @user.name
 %p= @user.email
+.center.hero-unit
+  = link_to "Answer a Question!", new_attempt_path, |
+    class: "btn btn-large btn-primary"   |
