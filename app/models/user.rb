@@ -9,6 +9,11 @@ class User < ActiveRecord::Base
   has_secure_password
   validates :password_confirmation, presence: true
   validates :password, length: { minimum: 6 }
+
+  def answer_percent
+    100 * attempts.correct.size.to_f/attempts.size
+  end
+
   private
   
     def create_remember_token

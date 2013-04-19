@@ -1,7 +1,7 @@
 - provide(:title, 'Question')
 %h1= @attempt.vocab_word.name.titleize
 .row
-  .span12.offset3
+  .span12
     = semantic_form_for(@attempt) do |f|
       = f.inputs do
         = render 'shared/error_messages', object: f.object

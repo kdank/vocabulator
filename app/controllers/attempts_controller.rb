@@ -6,10 +6,14 @@ class AttemptsController < ApplicationController
   def create
     @attempt = Attempt.new(attempts_params)
     if @attempt.save
-      flash[:success] = "Attempt Saved"
-      redirect_to current_user
+      if @attempt.vocab_word == @attempt.user_answer
+        flash[:success] = "Correct! the definition of #{@attempt.vocab_word.name} is #{@attempt.vocab_word.definition}"
+      else
+        flash[:notice] = "Incorrect, the definition of #{@attempt.vocab_word.name} is #{@attempt.vocab_word.definition}"
+      end
+      redirect_to new_attempt_path
     else
-      flash[:notice] = "Attempt Was Not Saved"
+      flash[:notice] = "Something went wrong"
       redirect_to current_user
     end
   end

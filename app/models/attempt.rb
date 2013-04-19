@@ -1,10 +1,12 @@
 class Attempt < ActiveRecord::Base
   belongs_to :vocab_word
   belongs_to :user
+  belongs_to :user_answer, :class_name => "VocabWord"
   has_many :choices
-  has_one :user_answer, :class_name => "VocabWord"
 
   accepts_nested_attributes_for :choices
+
+  scope :correct, where('vocab_word_id = user_answer_id') #this can be done better
 
   def generate
     vocab_word = VocabWord.offset(rand(VocabWord.count)).first
