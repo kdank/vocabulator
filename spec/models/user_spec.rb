@@ -30,5 +30,15 @@ describe User do
       expect(user.authenticate('summer')).to  eq(false)
     end
   end
+
+  describe 'answer_percent' do
+    let(:user) {FactoryGirl.create(:user)}
+    context 'when all attempts are correct' do
+      it 'should be 100%' do
+        3.times { FactoryGirl.create(:attempt, :correct, user_id: user.id) }
+        expect(user.answer_percent).to eq(100)
+      end
+    end
+  end
 end
 

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130414224344) do
+ActiveRecord::Schema.define(version: 20130426205359) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +23,10 @@ ActiveRecord::Schema.define(version: 20130414224344) do
     t.datetime "updated_at"
     t.integer  "user_answer_id"
   end
+
+  add_index "attempts", ["user_answer_id"], name: "index_attempts_on_user_answer_id"
+  add_index "attempts", ["user_id"], name: "index_attempts_on_user_id"
+  add_index "attempts", ["vocab_word_id"], name: "index_attempts_on_vocab_word_id"
 
   create_table "choices", force: true do |t|
     t.integer  "vocab_word_id"
@@ -51,5 +55,7 @@ ActiveRecord::Schema.define(version: 20130414224344) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "vocab_words", ["word_type"], name: "index_vocab_words_on_word_type"
 
 end
