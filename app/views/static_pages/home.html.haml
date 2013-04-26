@@ -4,8 +4,13 @@
       %section
         %h1= current_user.name
       %section
-        %h1 Percent correct
-        %h1= number_to_percentage(current_user.answer_percent, :precision => 0)
+        - if @attempts.size >= 10
+          %h1 Percent correct
+          %h1= number_to_percentage(current_user.answer_percent, :precision => 0)
+        - else
+          %p
+            %strong= "Complete #{10 - @attempts.size} more Questions for stats!"
+
     .span8
       %h3 Dashboard
       %br
@@ -13,11 +18,12 @@
       class: "btn btn-large btn-primary"   |
       %br
       %br
-      %section
-        %p Last Five Questions
-        %ul
-        - current_user.attempts.last(5).reverse.each do |a|
-          %li= a.vocab_word.name
+      - if @attempts.size > 10
+        %section
+          %p Last Five Questions
+          %ul
+          - current_user.attempts.last(5).reverse.each do |a|
+            %li= a.vocab_word.name
       
 - else
   .center.hero-unit
@@ -25,5 +31,4 @@
     %h2
       Master the 500 most common SAT words on the Cloud!
     = link_to "Sign up now!", signup_path, |
-      class: "btn btn-large btn-primary"   |
-    = link_to image_tag("rails.png", alt: "Rails"), 'http://rubyonrails.org/'
+      class: "btn btn-large btn-primary" 
