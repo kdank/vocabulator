@@ -1,7 +1,7 @@
 - provide(:title, 'Question')
-%h1= @attempt.vocab_word.name.titleize
 .row
   .span12
+    %h1= @attempt.vocab_word.name.titleize
     = semantic_form_for(@attempt) do |f|
       = f.inputs do
         = render 'shared/error_messages', object: f.object
@@ -11,7 +11,7 @@
           = builder.hidden_field :vocab_word_id 
         = f.input :user_answer_id, 
             collection: @attempt.choices.map{|c| [c.vocab_word.definition, c.vocab_word.id]}, 
-            label_method: :first, value_method: :last, as: :radio
+            label_method: :first, value_method: :last, as: :radio, label: ''
         %br
         %br
       = f.actions do |action|
