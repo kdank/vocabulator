@@ -10,20 +10,19 @@
         - else
           %p
             %strong= "Complete #{10 - @attempts.size} more Questions for stats!"
+      %section
+        - if @attempts.size > 10
+          %section
+            %p Last Five Questions
+            %ul
+            - @attempts.last(5).reverse.each do |a|
+              %li= a.vocab_word.name
 
     .span8
       %h3 Dashboard
       %br
       = link_to "Answer a Question!", new_attempt_path, |
-      class: "btn btn-large btn-primary"   |
-      %br
-      %br
-      - if @attempts.size > 10
-        %section
-          %p Last Five Questions
-          %ul
-          - current_user.attempts.last(5).reverse.each do |a|
-            %li= a.vocab_word.name
+      class: "btn btn-large btn-primary"
       
 - else
   .center.hero-unit
