@@ -15,7 +15,7 @@
         = f.fields_for :choices do |builder|
           = builder.hidden_field :vocab_word_id 
         = f.input :user_answer_id, 
-            collection: @attempt.choices.map{|c| [c.vocab_word.definition, c.vocab_word.id]}, 
+            collection: @attempt.choices.map{|c| [c.vocab_word.definition, c.vocab_word.id]}.shuffle, 
             label_method: :first, value_method: :last, as: :radio, label: ''
         %br
         %br

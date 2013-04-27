@@ -15,7 +15,6 @@ class Attempt < ActiveRecord::Base
       self.choices << Choice.new(vocab_word: word)
     end
     self.choices << Choice.new(vocab_word: vocab_word)
-    self.choices.shuffle
     self
   end
 end
