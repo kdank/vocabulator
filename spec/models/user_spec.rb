@@ -39,6 +39,21 @@ describe User do
         expect(user.answer_percent).to eq(100)
       end
     end
+
+    context 'when all attempts are incorrect' do
+      it 'should be 0%' do
+        3.times { FactoryGirl.create(:attempt, :incorrect, user_id: user.id) }
+        expect(user.answer_percent).to eq(0)
+      end
+    end
+
+    context 'when some answers are correct' do
+      it 'should have the appropriate %' do
+        2.times { FactoryGirl.create(:attempt, :incorrect, user_id: user.id)}
+        3.times { FactoryGirl.create(:attempt, :correct, user_id: user.id)}
+        expect(user.answer_percent).to eq(60)
+      end
+    end
   end
 end
 

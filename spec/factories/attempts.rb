@@ -1,7 +1,9 @@
+rand_vocab_word = VocabWord.offset(rand(VocabWord.count)).first
+
 FactoryGirl.define do
   factory :attempt do
     user
-    vocab_word            VocabWord.first #fix this
+    vocab_word            rand_vocab_word
 
     trait :with_choices do
       after :build do |attempt|
@@ -12,7 +14,15 @@ FactoryGirl.define do
     end
     
     trait :correct do
-      user_answer  VocabWord.first #will fix this
+      user_answer  rand_vocab_word
     end
+
+    trait :incorrect do # there is probably a better way to do this
+      if rand_vocab_word = VocabWord.last
+        user_answer  VocabWord.first
+      else
+        user_answer VocabWord.last
+      end
+    end 
   end
 end
