@@ -11,7 +11,7 @@ describe User do
   it { should respond_to :authenticate }
 
   describe "email address with mixed case" do
-    let(:user) {FactoryGirl.create(:user)}
+    let(:user) {create(:user)}
 
     it "should be saved as all lower-case" do
       user.email = "Foo@BaR.CoM"
@@ -21,7 +21,7 @@ describe User do
   end
 
   context 'authenticate' do
-    let(:user) {FactoryGirl.create(:user)}
+    let(:user) {create(:user)}
     it 'should return a user object when given the correct username and password' do
       expect(user.authenticate('Winter_Is_Coming')).to  eq(user)
     end
@@ -32,25 +32,25 @@ describe User do
   end
 
   describe 'answer_percent' do
-    let(:user) {FactoryGirl.create(:user)}
+    let(:user) {create(:user)}
     context 'when all attempts are correct' do
       it 'should be 100%' do
-        3.times { FactoryGirl.create(:attempt, :correct, user_id: user.id) }
+        3.times { create(:attempt, :correct, user_id: user.id) }
         expect(user.answer_percent).to eq(100)
       end
     end
 
     context 'when all attempts are incorrect' do
       it 'should be 0%' do
-        3.times { FactoryGirl.create(:attempt, :incorrect, user_id: user.id) }
+        3.times { create(:attempt, :incorrect, user_id: user.id) }
         expect(user.answer_percent).to eq(0)
       end
     end
 
     context 'when some answers are correct' do
       it 'should have the appropriate %' do
-        2.times { FactoryGirl.create(:attempt, :incorrect, user_id: user.id)}
-        3.times { FactoryGirl.create(:attempt, :correct, user_id: user.id)}
+        2.times { create(:attempt, :incorrect, user_id: user.id)}
+        3.times { create(:attempt, :correct, user_id: user.id)}
         expect(user.answer_percent).to eq(60)
       end
     end

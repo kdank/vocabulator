@@ -1,6 +1,11 @@
 - provide(:title, 'Question')
+
 .row
-  .span12
+  %aside.span2
+    %section
+      = link_to "Back To Dashboard", root_path, |
+      class: "btn btn-primary" 
+  .span10
     %h1= @attempt.vocab_word.name.titleize
     = semantic_form_for(@attempt) do |f|
       = f.inputs do
