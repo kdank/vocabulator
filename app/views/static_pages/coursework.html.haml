@@ -1,0 +1,16 @@
+- provide(:title, 'Jacob Dankner')
+%h1 CourseWork
+.row.miami
+  .span1.school_image_container
+    = image_tag 'http://thenewrambleon.files.wordpress.com/2011/08/university-of-miami.jpg'
+  .span9
+    .school_name
+      %h4 University of Miami
+    = render 'semester', {season: "Fall", year: 2006, courses: @fall_2006}
+    = render 'semester', {season: "Spring", year: 2007, courses: @spring_2007}
+.grinnell
+  .school_image_container
+    = image_tag "http://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Honor_'G'.png/220px-Honor_'G'.png"
+  .school_name
+    %h4 Grinnell College
+

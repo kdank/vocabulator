@@ -224,3 +224,43 @@ input {
   display: block;
   overflow: hidden;
 }
+
+.miami{
+  disply: list-item;
+}
+
+.grinnell{
+  display: list-item;
+}
+
+.school_image_container {
+  width:100px;
+  height: 100%;
+  margin-right:10px;
+  float:left;
+}
+
+.school_name {
+  height: 50px;
+}
+
+.semester {
+  width:50px;
+  margin-right:10px;
+  float:left;
+  p { text-align: center }  
+}
+
+.classes {
+  width:600px;
+  thead {
+    tr {
+      th {
+        &:fist-child {width: 30%;}
+        &:nth-child(2) {width: 10%;}
+        &:nth-child(3) {width: 10%;}
+        &:last-child {width: 50%;}
+      }
+    }
+  }
+}

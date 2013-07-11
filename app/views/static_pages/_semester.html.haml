@@ -1,0 +1,18 @@
+.semester_wrapper
+  .semester
+    %p= season
+    %p= year
+  %table.classes
+    %thead
+      %tr
+        %th Course
+        %th Area
+        %th Grade
+        %th Work
+    %tbody
+      - courses.each do |c|
+        %tr
+          %td= c[:name]
+          %td= c[:area]
+          %td= c[:grade]
+          %td= c[:work]
