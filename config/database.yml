@@ -43,8 +43,6 @@ test:
   database: vocabulator_test
   pool: 5
   host: localhost
-  username: railsuser
-  password: awesomesauce
 
 development:
   adapter: postgresql
@@ -53,5 +51,3 @@ development:
   database: vocabulator
   pool: 5
   host: localhost
-  username: railsuser
-  password: awesomesauce
