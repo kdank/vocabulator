@@ -14,6 +14,10 @@ Vocabulator::Application.routes.draw do
     match '/coursework', to: 'static_pages#coursework',  via: 'get'
   end
 
+  namespace :api do
+    match '/spell_checks/:name', to: 'spell_checks#show', via: :get
+  end
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -13,6 +13,8 @@ gem 'bootstrap-will_paginate', '0.0.9'
 gem 'gemcutter'
 gem 'rwordnet'
 gem 'formtastic'
+gem 'ffi'
+gem 'ffi-aspell'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.0'
