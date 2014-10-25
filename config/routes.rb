@@ -14,6 +14,12 @@ Vocabulator::Application.routes.draw do
     match '/coursework', to: 'static_pages#coursework',  via: 'get'
   end
 
+  scope :dungeons_and_dragons, as: 'dungeons_and_dragons' do
+    match '/home', to: 'd_and_d#home', via: 'get'
+    match '/file', to: 'd_and_d#file', via: 'get'
+    match '/dm', to: 'd_and_d#dm', via: 'get'
+  end
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
